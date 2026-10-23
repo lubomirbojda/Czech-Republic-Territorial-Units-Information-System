@@ -74,8 +74,8 @@ By combining tree hierarchies, hash tables with collision chaining, and heap sor
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/lubomirbojda/AUS-SEM.git
-   cd AUS-SEM
+   git clone https://github.com/lubomirbojda/Czech-Republic-Territorial-Units-Information-System
+   cd Czech-Republic-Territorial-Units-Information-System
    ```
 
 2. **Open the solution:**
